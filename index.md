@@ -10,7 +10,6 @@ sections:
       title: Hero title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Highlight A
