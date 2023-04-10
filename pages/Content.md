@@ -35,6 +35,3 @@ table, th, td {
     <td>blue</td>
   </tr>
 </tbody></table>
-
-
-
