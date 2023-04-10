@@ -9,6 +9,4 @@ links:
   - title: Hello
     collection: hello
   - title: Content
-    url: /permalink/content
-  - title: Content
     url: /content/permalink
