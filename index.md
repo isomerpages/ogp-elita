@@ -8,7 +8,7 @@ notification: Hello there
 sections:
   - hero:
       title: Hero title
-      subtitle: Hero subtitle
+      subtitle: This is hero subtitle!
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
